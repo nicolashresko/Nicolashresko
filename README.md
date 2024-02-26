@@ -2,9 +2,8 @@
 
 
 
-# IFPR - União da Vitória
--Técnico em Informática
-
+* IFPR - União da Vitória
+* Cursando Técnico em Informática integrado ao ensino médio.
 
 
 
